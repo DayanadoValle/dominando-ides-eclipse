@@ -1,0 +1,14 @@
+
+Principais atalhos do Eclipse
+https://www.devmedia.com.br/principais-atalhos-do-eclipse/25614
+
+Documentação 
+https://www.eclipse.org/documentation/
+
+Baixando e criando oprimeiroprojeto 
+https://www.devmedia.com.br/conhecendo-o-eclipse-uma-apresentacao-detalhada-da-ide/25589
+
+Anotações
+
+Class é criada dentro da pasta src;
+Rus as- java aplication

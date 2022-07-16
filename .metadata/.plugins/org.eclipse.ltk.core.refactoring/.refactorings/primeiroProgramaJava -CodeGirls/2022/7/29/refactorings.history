@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.dio&apos; to &apos;br.com.dio&apos;&#x0D;&#x0A;- Original project: &apos;primeiroProgramaJava -CodeGirls&apos;&#x0D;&#x0A;- Original element: &apos;primeiroProgramaJava -CodeGirls/src/com.dio&apos;&#x0D;&#x0A;- Renamed element: &apos;primeiroProgramaJava -CodeGirls/src/br.com.dio&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.dio&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.dio" name="br.com.dio" qualified="false" references="true" stamp="1657932711778" textual="false" version="1.0"/>
+</session>

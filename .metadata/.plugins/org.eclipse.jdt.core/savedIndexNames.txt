@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Isaque_2\OneDrive\Documents\day estudos\santandercodegirls\dominando-ide\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+287603939.index
+2513621982.index
+1865797976.index
